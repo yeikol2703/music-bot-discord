@@ -1,15 +1,17 @@
 # Basic discord music bot using discord js and discord-player
 
+![image](https://user-images.githubusercontent.com/58798908/222283239-93f6938b-5a43-47fd-bb46-4055c56949e5.png)
+
+
+![image](https://user-images.githubusercontent.com/58798908/222283359-417bf9f8-bdec-43ec-97b8-92f9d66c0700.png)
+
+
 After you have cloned the repo make sure to create a `.env` file with the `TOKEN` and `CLIENT_ID` specified for example
 
 ```
 TOKEN=xxx
 CLIENT_ID=xxx
 ```
-
-# Running with docker
-
-`docker run -e TOKEN=<your_token_here> -e CLIENT_ID=<your_client_id_here> -d pabolo02345/discord-js-music-bot`
 
 # Commands
 
