@@ -1,0 +1,22 @@
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "description": "After you have cloned the repo make sure to create a `.env` file with the `TOKEN` and `CLIENT_ID` specified for example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yeikol",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.15.0",
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/rest": "^0.5.0",
+    "@discordjs/voice": "^0.10.0",
+    "discord-api-types": "^0.33.5",
+    "discord-player": "^5.4.0",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "ffmpeg-static": "^5.1.0"
+  }
+}
